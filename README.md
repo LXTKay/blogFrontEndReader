@@ -5,7 +5,7 @@ It's a part of a larger project that includes a backend API for posting, editing
 
 The "full" front end for authors is a separate app.
 
-##All project apps:
+## All project apps:
 
 https://github.com/LXTKay/blogFrontEndReader - Front end for readers only
 
