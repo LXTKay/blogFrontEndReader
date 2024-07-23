@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "abc123",
+    "title": "Dummy Blog Post 1",
+    "content": "This is the content of dummy blog post 1",
+    "isPublished": true
+  },
+  {
+    "_id": "def456",
+    "title": "Dummy Blog Post 2",
+    "content": "This is the content of dummy blog post 2"
+  },
+  {
+    "_id": "ghi789",
+    "title": "Dummy Blog Post 3",
+    "content": "This is the content of dummy blog post 3",
+    "isPublished": true
+  },
+  {
+    "_id": "jkl012",
+    "title": "Dummy Blog Post 4",
+    "content": "This is the content of dummy blog post 4"
+  },
+  {
+    "_id": "mno345",
+    "title": "Dummy Blog Post 5",
+    "content": "This is the content of dummy blog post 5",
+    "isPublished": true
+  },
+  {
+    "_id": "pqr678",
+    "title": "Dummy Blog Post 6",
+    "content": "This is the content of dummy blog post 6"
+  },
+  {
+    "_id": "stu901",
+    "title": "Dummy Blog Post 7",
+    "content": "This is the content of dummy blog post 7",
+    "isPublished": true
+  },
+  {
+    "_id": "vwx234",
+    "title": "Dummy Blog Post 8",
+    "content": "This is the content of dummy blog post 8"
+  },
+  {
+    "_id": "yza567",
+    "title": "Dummy Blog Post 9",
+    "content": "This is the content of dummy blog post 9",
+    "isPublished": true
+  },
+  {
+    "_id": "yzf547",
+    "title": "Dummy Blog Post 10",
+    "content": "This is the content of dummy blog post 10"
+  }
+]
+

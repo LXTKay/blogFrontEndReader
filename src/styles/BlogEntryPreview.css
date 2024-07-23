@@ -1,0 +1,41 @@
+.blog-entry-preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid gray 1px;
+  border-radius: 1rem;
+  margin: 1rem;
+  width: 60%;
+  cursor: pointer;
+
+  transition: background-color 0.2s ease-in-out;
+}
+
+.blog-entry-preview:hover{
+  background-color: rgb(19, 34, 67);
+}
+
+.title {
+  margin: 0;
+  padding: 1rem;
+}
+
+.content {
+  padding: 1rem;
+  white-space: pre-wrap;
+  margin: 0;
+
+}
+
+.date {
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 650px) {
+  .blog-entry-preview {
+    width: calc(100% - 2rem);
+  }
+  
+}
